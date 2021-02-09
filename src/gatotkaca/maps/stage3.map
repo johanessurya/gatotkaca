@@ -1,0 +1,50 @@
+# Ini adalah komentar
+# Daftar tile: 
+# (Space) Tile kosong
+# (A..M)  Tile A sampai M.
+# l       Live Up.
+# s       Waskita. Untuk menambah MP
+# k       Kendi. Untuk menambah HP
+# l       Buto Ijo
+# 2       Buto Abang
+# 3       Nagapecona(BOSS)
+              s                 G    H                                                                    G                                                             
+              s                 G    H                                                                    G                                                             
+              s                 G    H                              1 1       2                      sssklG                                                             
+            s s s               G    H         IBABABABABABABABABABABABABABABABABABABAJ     IBABABABABABABG                                                             
+             sss                G    H k       LLMLMLMLMLMLMLMLMLMLMLMLMLMLMLMLMLMLMLLF     ELMLMLMLMLMLMLC                                                             
+IBABABABAJ    s    IBABABABABABAG    HBAJ                                             H     G                                                                           
+LMLMLMLMLF         EMLMLMLMLMLMLC    DLMF                                             H   IBG                                                                           
+KKKKKKKKKH         G                    HAJ                                           H   LLG                                                                           
+         H         G                    DMFBABAJ                                      H     G                                                                           
+         H         G                      DLMLMF                                      H     G                                                                           
+         H         G                           HAJ                                    H     G                                                                           
+         H         G                           DMFBAJ                               G H     G                                                 2                         
+         H       IBG                             DLMF                               G H     G                                           IBABABABABABABABABABABABABABABAB
+         H       LLG                                HAJ                             G H     G                                           ELMLMLMLMLMLMLMLMLMLMLMLMLMLMLML
+         H         G                                DMFBAJ                          G HAJ   G                                        IBAG                               
+         H         G                                  DLMF                          G HML   G                                        ELMC                               
+         H         G                                     HAJ                        G H     G                                     IBAG                                  
+         H         G                                     DMFBAJ                     G H     G                                    1ELMC                                  
+         H         G                                       DLMF                     G H     G                                  IBAG                                     
+         H                                                    HAJ                   G H     G                                  ELMC                                     
+         Hl                                                   DMFBAJ                G H     G                               IBAG                                        
+         HAJ                                                    DLMF                G H     G                               ELMC                                        
+         HML                                                       HAJ              G H   IBG                            IBAG                                           
+         H                                                         DMFBAJ          sG H   LLC                            ELMC                                           
+         H                                                           DLMF         IBG H                               IBAG                                              
+         H                                                              HAJ       LLG H                              1ELMC                                              
+         H                                                              DML         G H                            IBAG                                                 
+         H                                                                          G H                            ELMC                                                 
+         H                                                                     IBABAG HAJ                       IBAG                                                    
+         H                                                                     ELMLMC HML                       ELMC                                                    
+         H                                           IBABABABABABABABABABABABABG      H                      IBAG                                                       
+         H                  1 1 1                    ELMMMLMLMLMLMLMLMLMLMLMLMLC      H                      ELMC                                                       
+         HABABABABABABABABABABABABABABABABABABABABABAG                                HABABABABABABABABABABABG                                                          
+         DMLMLMLMLMLMLMLMLMLMLMLMLMLMLMLMLMLMLMLMLMLMC                                DMLMLMLMLMLMLMLMLMLMLMLC                                                          
+                                                                                                                                                                        
+                                                                                                                                                                        
+                                                                                                                                                                        
+                                                                                                                                                                        
+                                                                                                                                                                        
+                                                                                                                                                                        
