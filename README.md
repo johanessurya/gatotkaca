@@ -9,3 +9,18 @@ The biggest issue in this source code is memory management.
 This game is for educational purpose only, you cannot use it for commercial use.
 
 You could read my blog post: https://www.johanessurya.com/tugas-akhir/
+
+## About This Project
+
+1. Language: JAVA
+2. Structure use Java Ant, so you could open with any IDE you want
+
+## How To Install Project In Netbeans
+
+1. Click **File > New Project...**
+2. Choose **Java with Ant > Java Free-Form Project**
+
+## How To Run In Netbeans
+
+1. Open directory `src/gatotkaca`
+2. Copy all folder `font, images, maps, sounds` and a file `story.xml` to `build/gatotkaca/`
