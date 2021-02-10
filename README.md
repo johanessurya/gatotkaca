@@ -1,3 +1,4 @@
+
 # Gatotkaca - Otot Kawat Tulang Besi
 
 **Otot Kawat Tulang Besi** is Indonesian language, in English **Iron Bone Wire Muscle** which mean his bone strong as iron, and his muscle strong as wire.
@@ -23,4 +24,4 @@ You could read my blog post: https://www.johanessurya.com/tugas-akhir/
 ## How To Run In Netbeans
 
 1. Open directory `src/gatotkaca`
-2. Copy all folder `font, images, maps, sounds` and a file `story.xml` to `build/gatotkaca/`
+2. Copy all folder `font, images, maps, sounds` and a file `story.xml` to `build/gatotkaca/`. I know, I know, it's just ugly. If you or anyone want to contribute. I would very happy.
