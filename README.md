@@ -9,7 +9,7 @@ The biggest issue in this source code is memory management.
 
 This game is for educational purpose only, you cannot use it for commercial use.
 
-You could read my blog post: https://www.johanessurya.com/tugas-akhir/
+You could read my blog [post](https://www.johanessurya.com/sebuah-karya-masa-lalu-platformer-game-gatotkaca-otot-kawat-tulang-besi/).
 
 ## About This Project
 
